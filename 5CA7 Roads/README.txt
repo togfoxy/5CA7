@@ -1,26 +1,5 @@
--------------------------------------------------------------------------------
-AGRO WEST (5CA7)
--------------------------------------------------------------------------------
+This is a road pack is a simple re-alignment of the default roads packaged with XPlane 11.05. 
 
-This scenery pack was downloaded from the X-Plane Scenery Gateway: 
+This file will be redundant and not needed when Laminar Research update the default XPlane DSF files. Until then, this road pack is optional but recommended.
 
-    http://gateway.x-plane.com/
-
-Airport: AGRO WEST (5CA7)
-
-Uploaded by: danielhenderson.
-
-Authors Comments:
-
-templated by high res orthophotos
-
-Installation Instructions:
-
-To install this scenery, drag this entire folder into X-Plane's Custom Scenery
-folder and re-start X-Plane.
-
-The scenery packs shared via the X-Plane Scenery Gateway are free software; you
-can redistribute it and/or modify it under the terms of the GNU General Public
-License as published by the Free Software Foundation; either version 2 of the
-License, or (at your option) any later version.  See the included COPYING file
-for complete terms.
+Copy into your custom scenery folder and in the INI file, ensure it sits BELOW the entry for the 5CA7 custom scenery pack.
